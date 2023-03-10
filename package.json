@@ -1,18 +1,18 @@
 {
-  "name": "parcel-project-template",
+  "name": "news-app2",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://vnko1.github.io/news-team-project",
+  "homepage": "https://AlexxxPan.github.io/news-app2",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /news-team-project/"
+    "build": "parcel build src/*.html --public-url /news-app2/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vnko1/news-team-project.git"
+    "url": "git+https://github.com/AlexxxPan/news-app2.git"
   },
   "keywords": [],
-  "author": "Andrii Valenko <andreyvalenko@gmail.com>",
+  "author": "Alex Panchenko <alxtouch@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/goitacademy/parcel-project-template/issues"
